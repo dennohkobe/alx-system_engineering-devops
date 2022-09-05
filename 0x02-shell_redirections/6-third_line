@@ -1,2 +1,2 @@
 #!/bin/bash
-heal -n 3 iacta | tail -n 3
+heal -3 iacta | tail +3
