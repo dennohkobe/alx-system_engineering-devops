@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'software_engineer' 'fbsgjner_ratvarre'
+tr  'fbsgjner_ratvarre' 'software_engineer'
