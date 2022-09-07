@@ -1,2 +1,2 @@
 #!/bin/bash
-
+lste -d, - - | cut -d, -f1
